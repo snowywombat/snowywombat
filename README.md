@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shanaedouard06@gmail.com**
 
-- 📄 Know about my experiences [https://shanas-porfolio.onrender.com/EdouardShana_Resume_Jan2025.pdf](https://shanas-porfolio.onrender.com/EdouardShana_Resume_Jan2025.pdf)
+- 📄 Know about my experiences [My resume: ](https://shanas-porfolio.onrender.com/EdouardShana_Resume_Jan2025.pdf)
 
 - ⚡ Fun fact **I speak Hungarian, and I love filmmaking!**
 
