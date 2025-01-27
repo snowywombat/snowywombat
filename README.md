@@ -5,15 +5,15 @@
   <img src="https://github.com/snowywombat/snowywombat/assets/96889369/9aaad52c-7adf-405d-a962-3ec3a39aa052" alt="cat-typing">
 </p>
 
-- 🔭 I’m currently working on [app development for Gather!](https://joingather.app/)
+- 🔭 I’m currently working on: [app development for Gather!](https://joingather.app/)
 
-- 👨‍💻 All of my projects are available at [https://shanas-porfolio.onrender.com/](https://shanas-porfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at: [https://shanas-porfolio.onrender.com/](https://shanas-porfolio.onrender.com/)
 
-- 📫 How to reach me **shanaedouard06@gmail.com**
+- 📫 How to reach me: **shanaedouard06@gmail.com**
 
-- 📄 Know about my experiences [My resume: ](https://shanas-porfolio.onrender.com/EdouardShana_Resume_Jan2025.pdf)
+- 📄 Know about my experiences: [My resume](https://shanas-porfolio.onrender.com/EdouardShana_Resume_Jan2025.pdf)
 
-- ⚡ Fun fact **I speak Hungarian, and I love filmmaking!**
+- ⚡ Fun fact: **I speak Hungarian, and I love filmmaking!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
